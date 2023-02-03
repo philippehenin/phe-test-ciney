@@ -25,7 +25,3 @@ handlers:
   # the entire handlers section) when there are no static files defined.
 - url: /.*
   script: auto
-
-options:
-  #logging: CLOUD_LOGGING_ONLY
-  logging: NONE
