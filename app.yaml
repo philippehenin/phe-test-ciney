@@ -12,9 +12,6 @@
 runtime: python311 # or another supported version
 
 
-env_variables:
-  BUCKET_NAME: "example-gcs-bucket"
-
 handlers:
 # Matches requests to /images/... to files in static/images/...
 - url: /images
