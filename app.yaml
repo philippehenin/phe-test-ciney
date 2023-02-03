@@ -27,4 +27,5 @@ handlers:
   script: auto
 
 options:
-  logging: CLOUD_LOGGING_ONLY
+  #logging: CLOUD_LOGGING_ONLY
+  logging: NONE
